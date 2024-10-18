@@ -26,5 +26,6 @@ public class MarsApplication {
         System.out.println("Checking the Battery Level.");
         spirit.checkBatteryLevel();
         spirit.showAttributes();
+        System.out.println("Test Github");
     }
 }
